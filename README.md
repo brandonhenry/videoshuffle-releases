@@ -2,6 +2,8 @@
 
 A simple app for shuffling video files. Download, load your files, choose your settings, and merge!
 
+Official website: www.videoshufflr.com
+
 ## Installation
 
 Download the latest release and install. 
