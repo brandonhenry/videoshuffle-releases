@@ -1,0 +1,5 @@
+# Ignore everything by default; only keep the files we explicitly allow
+*
+!.gitignore
+!README.md
+!LICENSE
