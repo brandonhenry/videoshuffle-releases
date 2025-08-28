@@ -8,7 +8,7 @@ Official website: www.videoshufflr.com
 
 Download the latest release and install. 
 
-Latest release: https://github.com/brandonhenry/videoshuffle/releases
+Latest release: https://github.com/brandonhenry/videoshuffle-releases/releases
 
 1. Go to releases
 2. Click the latest version
